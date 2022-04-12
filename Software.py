@@ -1,3 +1,5 @@
+#Aquí se colocarán las tareas a realizar. Para realizar observaciones o comentarios, se debe hacer con el signo # antepuesto al mensaje.
+
 mensaje_inicio='mensaje de bienvenida y anuncio de derchos y políticas de\ntratamiento de datos'
 mensaje_info_clinica='Esta información que llenará a continuación, corresponde a la información clínica.\n\n¿Cuénta usted con la historia clínica?\n\nResponda:\n1 Sí\2 No'
 def mensaje_de_error(n):
