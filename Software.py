@@ -97,5 +97,6 @@ print(sal)
 #La cuarta prueba ha sido un éxito
 #La quinta prueba ha sido un éxito
 #La sexta prueba ha sido un éxito
+#La séptima prueba ha sido un éxito
 
 
