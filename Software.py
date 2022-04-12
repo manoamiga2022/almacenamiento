@@ -91,12 +91,6 @@ def aceptar_TyC():
     
 sal=aceptar_TyC()
 print(sal)
-#La prueba ha sido un éxito
-#La segunda prueba ha sido un éxito
-#La tercera prueba ha sido un éxito
-#La cuarta prueba ha sido un éxito
-#La quinta prueba ha sido un éxito
-#La sexta prueba ha sido un éxito
-#La séptima prueba ha sido un éxito
+#Prueba final
 
 
